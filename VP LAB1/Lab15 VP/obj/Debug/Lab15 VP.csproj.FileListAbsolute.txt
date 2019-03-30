@@ -1,0 +1,6 @@
+D:\VISUAL STUDIO\VP LAB1\Lab15 VP\bin\Debug\Lab15 VP.exe.config
+D:\VISUAL STUDIO\VP LAB1\Lab15 VP\bin\Debug\Lab15 VP.exe
+D:\VISUAL STUDIO\VP LAB1\Lab15 VP\bin\Debug\Lab15 VP.pdb
+D:\VISUAL STUDIO\VP LAB1\Lab15 VP\obj\Debug\Lab15 VP.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\VP LAB1\Lab15 VP\obj\Debug\Lab15 VP.exe
+D:\VISUAL STUDIO\VP LAB1\Lab15 VP\obj\Debug\Lab15 VP.pdb

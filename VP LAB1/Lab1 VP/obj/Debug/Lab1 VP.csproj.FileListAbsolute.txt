@@ -1,0 +1,7 @@
+D:\VISUAL STUDIO\VP LAB1\Lab1 VP\bin\Debug\Lab1 VP.exe.config
+D:\VISUAL STUDIO\VP LAB1\Lab1 VP\bin\Debug\Lab1 VP.exe
+D:\VISUAL STUDIO\VP LAB1\Lab1 VP\bin\Debug\Lab1 VP.pdb
+D:\VISUAL STUDIO\VP LAB1\Lab1 VP\obj\Debug\Lab1 VP.csprojAssemblyReference.cache
+D:\VISUAL STUDIO\VP LAB1\Lab1 VP\obj\Debug\Lab1 VP.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\VP LAB1\Lab1 VP\obj\Debug\Lab1 VP.exe
+D:\VISUAL STUDIO\VP LAB1\Lab1 VP\obj\Debug\Lab1 VP.pdb
