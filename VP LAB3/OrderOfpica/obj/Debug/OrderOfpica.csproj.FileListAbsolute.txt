@@ -1,0 +1,10 @@
+D:\VISUAL STUDIO\VIZUELNO PROGRAMIRANE\Lab3VP\OrderOfpica\bin\Debug\OrderOfpica.exe.config
+D:\VISUAL STUDIO\VIZUELNO PROGRAMIRANE\Lab3VP\OrderOfpica\bin\Debug\OrderOfpica.exe
+D:\VISUAL STUDIO\VIZUELNO PROGRAMIRANE\Lab3VP\OrderOfpica\bin\Debug\OrderOfpica.pdb
+D:\VISUAL STUDIO\VIZUELNO PROGRAMIRANE\Lab3VP\OrderOfpica\obj\Debug\OrderOfpica.csprojAssemblyReference.cache
+D:\VISUAL STUDIO\VIZUELNO PROGRAMIRANE\Lab3VP\OrderOfpica\obj\Debug\OrderOfpica.Form1.resources
+D:\VISUAL STUDIO\VIZUELNO PROGRAMIRANE\Lab3VP\OrderOfpica\obj\Debug\OrderOfpica.Properties.Resources.resources
+D:\VISUAL STUDIO\VIZUELNO PROGRAMIRANE\Lab3VP\OrderOfpica\obj\Debug\OrderOfpica.csproj.GenerateResource.cache
+D:\VISUAL STUDIO\VIZUELNO PROGRAMIRANE\Lab3VP\OrderOfpica\obj\Debug\OrderOfpica.csproj.CoreCompileInputs.cache
+D:\VISUAL STUDIO\VIZUELNO PROGRAMIRANE\Lab3VP\OrderOfpica\obj\Debug\OrderOfpica.exe
+D:\VISUAL STUDIO\VIZUELNO PROGRAMIRANE\Lab3VP\OrderOfpica\obj\Debug\OrderOfpica.pdb
